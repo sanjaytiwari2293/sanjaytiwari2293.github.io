@@ -1,0 +1,206 @@
+.content{
+	text-align: center;
+	margin-top: 25%;
+	padding: 30px;
+	background-color: rgba(0,0,0,0.4);
+	width: auto;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 10px 6px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.2);
+
+}
+div{
+	display: block;
+}
+
+body{ 
+	font-family: lato;
+	height: 100vh;
+}
+
+.nav .navbar-nav .navbar-right{
+	font-size: 1.5em;
+}
+
+.btn.btn-lg {
+    padding: 1rem 2.4rem;
+    font-size: 1.0em;
+}
+
+#intro{
+	color: rgba(0,0,0,0.5);
+}
+
+/*html{
+	min-height: 100%;
+}*/
+
+h1{
+	font-weight: bold;
+	font-size: 3em;
+	color: #2979ff;
+}
+
+h2, h3{
+	/*color: #11ad83;*/
+	color: #ff5722;
+	font-weight: bold;
+}
+
+hr{
+	width: 40%;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 2px solid rgba(0,0,0,0.2);
+}
+
+.svg-inline--fa{
+	font-size: 1.2em;
+}
+
+.navbar-inverse{
+	/*background-color: #0067a3;*/
+	background-color: #2979ff;
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #e2e2de;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #e2e2de;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #959fa5;
+}
+
+.welcome{
+	background: url("https://source.unsplash.com/xrVDYZRGdw4");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	min-height: 100%;
+	position: relative;
+}
+
+
+
+.img{
+	width: 100%;
+	height: auto;
+	border-radius: 40%;
+
+}
+
+.text-center{
+	text-align: center;
+}
+
+.commons{
+	margin: 8em 0;
+	/*color: #0067a3;*/
+	color: black;
+	padding: 2em 0;
+}
+
+.para{
+	font-size: 1.5em;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+
+
+.prof{
+	border: 20px solid #e5e7ea;
+	border-radius: 20px;
+	padding: 20px;
+	box-shadow: 5px 10px #888888;
+}
+
+.skillpad{
+	padding-left: 4em;
+}
+
+h4{
+	display: inline-block;
+	border: 2px solid orange;
+	padding: 5px;
+	text-align: center;
+	border-radius: 10px;
+	font-size: 1.5em;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.ulfont{
+	font-size: 1.5em;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+.projects{
+	font-size: 1.2em;
+	text-align: justify;
+    text-justify: inter-word;
+    width: 100%;
+}
+
+.projecthead{
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.thumbnail{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	padding: 10px;
+
+}
+
+.caption{
+	border: 1px solid rgba(88,88,88,0.4);
+	background-color: #f5f5f5;
+	border-radius: 20px;
+	margin: 0 1.5em;
+}
+
+.caption a{
+	color: black;
+	font-size: 1.5em;
+}
+
+.procontent{
+	padding: 10px;
+}
+
+.links{
+	background-color: #303030;
+	height: 8em;
+	text-align: center;
+	padding: 2em;
+	vertical-align: middle;
+	font-size: 30px;
+}
+
+.titles{
+	margin-bottom: 2em;
+}
+
+.social{
+	margin: 0 1em;
+}
+
+.end{
+	background-color: #2979ff;
+	height: 50px;
+	text-align: center;
+	padding-top: 1em;
+	vertical-align: middle;
+
+}
+
+
+
+

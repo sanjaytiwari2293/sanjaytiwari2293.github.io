@@ -16,6 +16,7 @@ div{
 body{ 
 	font-family: lato;
 	height: 100vh;
+	color: white;
 }
 
 .nav .navbar-nav .navbar-right{

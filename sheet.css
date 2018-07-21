@@ -191,6 +191,8 @@ h4{
 
 .social{
 	margin: 0 1em;
+	display: inline-block;
+
 }
 
 .end{
